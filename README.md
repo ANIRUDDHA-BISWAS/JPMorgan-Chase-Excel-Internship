@@ -1,33 +1,36 @@
-# JPMorgan-Chase-Excel-Internship
-JPMorgan Chase &amp; Co.'s Excel Skills on Forage Virtual Internship
+# JPMorgan Chase Excel Internship
 
-## Task 1: Excel keyboard shortcuts
-My task was to learn some key Excel shortcuts, practice them in Excel, and attened a quiz.
+## JPMorgan Chase & Co.'s Excel Skills on Forage Virtual Internship
 
-## Task 2: Conditional Formatting
-Use the conditional formatting tools to do the following explorations of the data:
-- Highlight any cells with formula errors in purple with white text.
-- Highlight any cells with missing values in yellow.
-- Identify accounts that have not been cross-sold with Product 2 by highlighting the appropriate Product 2 cells in orange.
-- Identify accounts that have a 5-year sales CAGR of at least 100% by highlighting the appropriate CAGR cells in green and any accounts with a negative CAGR in red with white text.
-- Identify accounts in the top 10% of unit sales for 2021 by highlighting the appropriate 2021 unit sales cells in blue.
+### Task 1: Excel Keyboard Shortcuts
+I learned key Excel shortcuts, practiced them in Excel, and attended a quiz to test my knowledge.
 
-## Task 3: 
-You will create two macros and associated buttons:
+### Task 2: Conditional Formatting
+Using the conditional formatting tools, I performed the following tasks:
+- Highlighted cells with formula errors in purple with white text.
+- Highlighted cells with missing values in yellow.
+- Identified accounts that had not been cross-sold with Product 2 by highlighting the appropriate Product 2 cells in orange.
+- Highlighted accounts with a 5-year sales CAGR of at least 100% in green and those with a negative CAGR in red with white text.
+- Highlighted accounts in the top 10% of unit sales for 2021 in blue.
 
-- A macro to sort the entire spreadsheet by 5 YR CAGR in descending order to see which accounts have the highest overall 5-year sales growth
-- A macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts have the highest overall unit sales in 2021
+### Task 3: Creating Macros
+I created two macros and associated buttons:
+- A macro to sort the entire spreadsheet by 5-year CAGR in descending order to identify accounts with the highest overall 5-year sales growth.
+- A macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts had the highest overall unit sales in 2021.
 
-## Task 4: 
-Your task is to create a simple dashboard using the account sales dataset you worked with in prior tasks. A clean copy of that spreadsheet is available in Additional Resources below.
+### Task 4: Building a Dashboard
+I created a simple dashboard using the account sales dataset from prior tasks. The steps included:
+1. Doing background learning on building a dashboard in Excel.
+2. Analyzing the dataset to determine useful charts and graphs, such as unit sales by year, top 10 accounts by unit sales or CAGR, and the effectiveness of different marketing programs.
+3. Transforming the data to simplify analysis, such as disaggregating raw data into a new sheet with a row per sales year per account.
+4. Adding pivot tables to support various types of charts and analyses.
 
-First, do your background learning using the links in Additional Resources below, particularly for the videos on the basics of building a dashboard in Excel.
-
-Then, consider your dataset. What charts and graphs would be useful related to this data? Unit sales by year? Top 10 accounts by unit sales or CAGR? Effectiveness of different marketing programs by the number of sales driven? Sales by account type? There are a variety of different ways you could gain insight from this dataset. Pick the ones you find most compelling, and use those to create your dashboard.  
-
-Next, consider how you may need to transform the data in the dataset to simplify your analyses. Raw data is as you find it and often not in the ideal form for analysis. You may need to alter the spreadsheet structure or add calculations to support your analysis. Hint: disaggregating the raw data by building a new sheet that has a row per sales year per account, rather than a row per account that combines sales data for all five years, will make it much easier to use pivot tables for some types of analysis. Could you use one or more macros to make constructing that new sheet easier? You may want to filter the data into different views. You will want to add pivot tables to support some kinds of charts you could create. Feel free to change the dataset in any way that supports your analysis.  
-
-Make your data an Excel table (rather than a range). Remember the shortcut for that? It is Ctrl-T. Some of Excel’s more useful capabilities work with data designated as a Table in Excel, including dynamic updating of charts and graphs and much of the pivot table functionality. It is a best practice to use Excel Tables when doing data analysis.
-
-
-
+### Task 5: Creating a PowerPoint Presentation
+I wrote a short PowerPoint presentation to communicate key insights and data from my analysis and visualization work. The process involved:
+1. Learning about data-driven storytelling.
+2. Reviewing my analysis and dashboard from Task 4 to identify compelling data, ideas, insights, and examples for decision-makers.
+3. Creating a presentation using a provided template, ensuring it was clear, concise, and compelling. The presentation included:
+   - A compelling title to grab the audience's attention.
+   - A key overarching point with a compelling visual.
+   - Key points about account sales analysis, including sales performance, opportunities for improvement, and other relevant findings.
+   - A recommendation for action based on the analysis of account sales.
